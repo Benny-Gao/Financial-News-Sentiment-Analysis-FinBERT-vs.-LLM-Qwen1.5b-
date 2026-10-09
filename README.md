@@ -4,7 +4,7 @@ This is a basic sentiment analysis project using a Kaggle dataset. The project a
 
 Kaggle project: https://www.kaggle.com/code/bennygao2/sentiment-analysis
 
-An informal report is attached as a PDF.
+An **informal** report is attached as a PDF.
 
 The original project file is also attached.
 
